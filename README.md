@@ -2,4 +2,4 @@
 
 ##What is biconou ?
 
-biconou is a complete audio system.
+biconou is a hi-fi music streamer distribution for Raspberry Pi.
